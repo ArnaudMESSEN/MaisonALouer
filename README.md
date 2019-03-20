@@ -1,2 +1,2 @@
 # MaisonALouer
-Maisons à louer (La Forge et Les Chaumettes
+Maisons à louer (La Forge et Les Chaumettes)
